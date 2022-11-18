@@ -1,6 +1,9 @@
 ### Hi there 👋
 <a href="https://app.daily.dev/Happr"><img src="https://api.daily.dev/devcards/79847649b6244b4192710fefa3b9d9c9.png?r=2h4" width="400" alt="Happy's Dev Card"/></a>
 
+
+<img src="./devcard.svg">
+
 <!--
 **WhenLeo/WhenLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
